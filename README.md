@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://zvirox.in">
+    <img src="https://zvirox.in/assets/images/zvirox-logo.png" alt="Zvirox Logo" width="280">
+  </a>
+</p>
+
 # Hi, I'm Prakashpuri Gauswami (@Prakash) 👋
 ### Cybersecurity Analyst & SOC Practitioner · Agentic AI Builder · Gujarat, India
 
