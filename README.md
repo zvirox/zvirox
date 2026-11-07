@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/badge/website-zvirox.in-ff50a6?style=flat-square&logo=firefox)](https://zvirox.in)
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?style=flat-square&logo=githubsponsors)](https://github.com/sponsors/zvirox)
 [![Email](https://img.shields.io/badge/email-info%40zvirox.in-blue?style=flat-square&logo=mail.ru)](mailto:info@zvirox.in)
+[![Proton](https://img.shields.io/badge/proton-zvirox%40proton.me-6d4aff?style=flat-square&logo=protonmail)](mailto:zvirox@proton.me)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
 I am a cybersecurity-focused IT professional and BCA graduate passionate about **Blue Team operations, SOC analysis, SIEM monitoring, and threat detection**. 
@@ -59,5 +60,6 @@ My primary career objective is to transition into an entry-level **Cybersecurity
 
 - 🌍 **Website & Documentation:** [https://zvirox.in](https://zvirox.in)
 - 📖 **Technical Guides:** [https://zvirox.in/guides/](https://zvirox.in/guides/)
-- 📬 **Email:** [info@zvirox.in](mailto:info@zvirox.in)
-- 🤝 **LinkedIn / Opportunities:** Open to SOC Analyst, Blue Team & Security Operations roles worldwide.
+- 📬 **Project & General Email:** [info@zvirox.in](mailto:info@zvirox.in)
+- 🔒 **Direct & Security / Confidential:** [zvirox@proton.me](mailto:zvirox@proton.me)
+- 🤝 **Opportunities:** Open to SOC Analyst, Blue Team & Security Operations roles worldwide.
