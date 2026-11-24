@@ -34,12 +34,15 @@ I focus on practical Blue Team defense, telemetry analysis, and incident detecti
 
 ## 🚀 Open-Source Software Projects (Built with Agentic AI)
 
-| Project | Platform | Status | Focus | Licence |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Easy Edits Pro](https://github.com/zvirox/easy-edits-pro)** | Linux | `Active Alpha` | Multitrack video editor (Rust, Tauri, GStreamer, MCP) | [AGPL-3.0 + Commercial](https://zvirox.in/licensing/) |
-| **[Audio Labs Pro](https://github.com/zvirox/audio-labs-pro)** | Linux | `Alpha v0.0.1` | Audio workstation (Rust, iced, Local AI, 14-tool MCP) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) |
-| **[Screen Studio Pro](https://github.com/zvirox/screen-studio-pro)** | Linux | `Planning Phase` | Wayland screen recorder (PipeWire, Tauri 2, Rust) | [MIT](https://opensource.org/licenses/MIT) |
-| **[Your TV Friend](https://github.com/zvirox/your-tv-friend)** | Android TV | `v0.0.3` | Non-destructive debloater & launcher (Java, ADB, Python) | [MIT](https://opensource.org/licenses/MIT) |
+| Logo | Project | Platform | Status | Focus | Licence |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/zvirox/starship-control/main/assets/logo.png" alt="Starship Control logo" width="32" height="32" /> | **[Starship Control](https://github.com/zvirox/starship-control)** | Linux | `v0.1.0-beta.1` | Local-first AI cockpit & floating HUD (Rust, Tauri 2, React 19, MCP) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| <img src="https://raw.githubusercontent.com/zvirox/screen-studio-pro/main/src/assets/screen-studio-pro-logo.png" alt="Screen Studio Pro logo" width="32" height="32" /> | **[Screen Studio Pro](https://github.com/zvirox/screen-studio-pro)** | Linux | `v0.1.0-beta.1` | Wayland & X11 screen recorder (Rust, PipeWire, Tauri 2, React 19) | [MIT](https://opensource.org/licenses/MIT) |
+| <img src="https://raw.githubusercontent.com/zvirox/easy-edits-pro/main/docs/assets/easy-edits-pro-logo.png" alt="Easy Edits Pro logo" width="32" height="32" /> | **[Easy Edits Pro](https://github.com/zvirox/easy-edits-pro)** | Linux | `v0.1.3-beta.3` | Non-destructive multitrack video editor (Rust, Tauri 2, React 19, GStreamer) | [AGPL-3.0 + Commercial](https://zvirox.in/licensing/) |
+| <img src="https://raw.githubusercontent.com/zvirox/audio-labs-pro/main/packaging/branding/audio-labs-pro-logo.png" alt="Audio Labs Pro logo" width="32" height="32" /> | **[Audio Labs Pro](https://github.com/zvirox/audio-labs-pro)** | Linux | `v0.1.0-beta.1` | Offline voice studio & multitrack audio editor (Rust, Tauri 2, React 19, MCP) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| <img src="https://raw.githubusercontent.com/zvirox/agentic-tuneup-pro/main/.github/assets/logo.png" alt="Agentic Tuneup Pro logo" width="32" height="32" /> | **[Agentic Tuneup Pro](https://github.com/zvirox/agentic-tuneup-pro)** | Linux | `v0.1.0-beta.1` | Safety-first disk cleaner & system optimizer (Rust, Tauri 2, React 19, MCP) | [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) |
+| <img src="https://raw.githubusercontent.com/zvirox/net-watch-pro/main/docs/assets/net-watch-pro-logo.png" alt="Net Watch Pro logo" width="32" height="32" /> | **[Net Watch Pro](https://github.com/zvirox/net-watch-pro)** | Linux | `v0.9.2-beta.5` | Real-time network speed & per-app tracker (Rust, Aya eBPF, Tauri 2, React 19) | [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) |
+| <img src="https://raw.githubusercontent.com/zvirox/your-tv-friend/main/launcher/app/src/main/res/drawable-nodpi/icon.png" alt="Your TV Friend logo" width="32" height="32" /> | **[Your TV Friend](https://github.com/zvirox/your-tv-friend)** | Android TV | `v0.0.3` | Non-destructive debloater & launcher (Java, ADB, Python) | [MIT](https://opensource.org/licenses/MIT) |
 
 ### Why I Build Open-Source Software:
 1. **Hands-on Security & Threat Modeling:** Writing and auditing complete software architectures gives me deep, practical intuition for finding vulnerabilities, securing IPC channels, and inspecting code.
