@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi, I'm Prakashpuri Gauswami (@Prakash) 👋
+# Hi, I'm Prakashpuri Gauswami (@zvirox) 👋
 ### Cybersecurity Analyst & SOC Practitioner · Agentic AI Builder · Gujarat, India
 
 [![Website](https://img.shields.io/badge/website-zvirox.in-ff50a6?style=flat-square&logo=firefox)](https://zvirox.in)
